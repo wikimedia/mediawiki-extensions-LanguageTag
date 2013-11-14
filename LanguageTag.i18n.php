@@ -31,6 +31,13 @@ $messages['de'] = array(
 	'languagetag-desc' => 'Ermöglicht die Verwendung von Sprachtags im XML-Stil zur Auszeichnung und korrekten Anzeige unterschiedlicher Sprachen',
 );
 
+/** French (français)
+ * @author Gomoko
+ */
+$messages['fr'] = array(
+	'languagetag-desc' => 'Permet d’utiliser les balises de langue dans le style XML pour marquer les différentes langues, et les afficher correctement',
+);
+
 /** Galician (galego)
  * @author Toliño
  */
@@ -71,4 +78,11 @@ $messages['ru'] = array(
  */
 $messages['uk'] = array(
 	'languagetag-desc' => 'Дозволяє використовувати мовні теги у XML-стилі для розмітки різних мов і їх правильного відображення',
+);
+
+/** Simplified Chinese (中文（简体）‎)
+ * @author Liuxinyu970226
+ */
+$messages['zh-hans'] = array(
+	'languagetag-desc' => '允许使用XML样式语言标签以标记不同语言，并正确显示它们',
 );
