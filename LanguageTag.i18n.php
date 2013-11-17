@@ -66,6 +66,13 @@ $messages['mk'] = array(
 	'languagetag-desc' => 'Овозможува јазични ознаки во XML-стил за означување на разни јазици и нивно соодветно прикажување на екранот',
 );
 
+/** Dutch (Nederlands)
+ * @author Breghtje
+ */
+$messages['nl'] = array(
+	'languagetag-desc' => 'Maakt het mogelijk om gebruik van XML-stijl taal tags aan verschillende opmaaktalen, en ze correct wordt weergegeven',
+);
+
 /** Russian (русский)
  * @author Okras
  */
