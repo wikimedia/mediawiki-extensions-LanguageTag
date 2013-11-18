@@ -24,6 +24,13 @@ $messages['qqq'] = array(
 	'languagetag-desc' => '{{desc|name=Language Tag|url=http://www.mediawiki.org/wiki/Extension:LanguageTag}}',
 );
 
+/** Asturian (asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'languagetag-desc' => "Permite usar etiquetes de llingua d'estilu XML pa marcar distintes llingües y amosales correutamente",
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */
