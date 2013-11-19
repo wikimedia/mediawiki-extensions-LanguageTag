@@ -75,9 +75,10 @@ $messages['mk'] = array(
 
 /** Dutch (Nederlands)
  * @author Breghtje
+ * @author Siebrand
  */
 $messages['nl'] = array(
-	'languagetag-desc' => 'Maakt het mogelijk om gebruik van XML-stijl taal tags aan verschillende opmaaktalen, en ze correct wordt weergegeven',
+	'languagetag-desc' => 'Maakt het mogelijk om gebruik van XML-stijl taal tags aan verschillende opmaaktalen, en ze correct wordt weergegeven', # Fuzzy
 );
 
 /** Russian (русский)
