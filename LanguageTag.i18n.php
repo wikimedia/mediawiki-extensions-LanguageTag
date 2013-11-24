@@ -38,6 +38,13 @@ $messages['de'] = array(
 	'languagetag-desc' => 'Ermöglicht die Verwendung von Sprachtags im XML-Stil zur Auszeichnung und korrekten Anzeige unterschiedlicher Sprachen',
 );
 
+/** Spanish (español)
+ * @author Fitoschido
+ */
+$messages['es'] = array(
+	'languagetag-desc' => 'Permite usar etiquetas de idioma al estilo XML para marcar texto en lenguas distintas y mostrarlo adecuadamente',
+);
+
 /** French (français)
  * @author Gomoko
  */
