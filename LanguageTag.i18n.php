@@ -59,6 +59,13 @@ $messages['gl'] = array(
 	'languagetag-desc' => 'Permite utilizar as etiquetas de lingua de estilo XML para dar formato ás diferentes linguas e mostralas correctamente',
 );
 
+/** Upper Sorbian (hornjoserbsce)
+ * @author Michawiki
+ */
+$messages['hsb'] = array(
+	'languagetag-desc' => 'Dowola wužiwanje rěčnych značkow w XML-stilu, zo by rozdźělne rěče woznamjeniło a je korektnje zwobrazniło',
+);
+
 /** Italian (italiano)
  * @author Beta16
  */
