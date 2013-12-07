@@ -92,7 +92,7 @@ $messages['mk'] = array(
  * @author Siebrand
  */
 $messages['nl'] = array(
-	'languagetag-desc' => 'Maakt het mogelijk om gebruik van XML-stijl taal tags aan verschillende opmaaktalen, en ze correct wordt weergegeven', # Fuzzy
+	'languagetag-desc' => 'Maakt het mogelijk om gebruik te maken van van XML-achtige taallabels om verschillende talen te labelen, en ze correct weer te geven',
 );
 
 /** Russian (русский)
