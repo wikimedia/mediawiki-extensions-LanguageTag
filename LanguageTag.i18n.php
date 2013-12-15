@@ -38,6 +38,13 @@ $messages['de'] = array(
 	'languagetag-desc' => 'Ermöglicht die Verwendung von Sprachtags im XML-Stil zur Auszeichnung und korrekten Anzeige unterschiedlicher Sprachen',
 );
 
+/** Lower Sorbian (dolnoserbski)
+ * @author Michawiki
+ */
+$messages['dsb'] = array(
+	'languagetag-desc' => 'Dowólujo wužywanje rěcnych elementow w XML-stilu, aby rozdźělne rěcy wóznamjeniło a je korektnje zwobrazniło',
+);
+
 /** Spanish (español)
  * @author Fitoschido
  */
