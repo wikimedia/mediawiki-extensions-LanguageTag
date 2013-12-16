@@ -81,10 +81,11 @@ $messages['it'] = array(
 );
 
 /** Japanese (日本語)
+ * @author Fryed-peach
  * @author Shirayuki
  */
 $messages['ja'] = array(
-	'languagetag-desc' => '他の言語でマークアップするための XML スタイルの言語タグを使用できるようにし、それらを適切に表示できるようにする',
+	'languagetag-desc' => '他の言語をマークアップするための XML スタイルの言語タグを使用できるようにし、それらを適切に表示できるようにする',
 );
 
 /** Macedonian (македонски)
