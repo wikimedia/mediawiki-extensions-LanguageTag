@@ -103,6 +103,13 @@ $messages['nl'] = array(
 	'languagetag-desc' => 'Maakt het mogelijk om gebruik te maken van van XML-achtige taallabels om verschillende talen te labelen, en ze correct weer te geven',
 );
 
+/** Polish (polski)
+ * @author Chrumps
+ */
+$messages['pl'] = array(
+	'languagetag-desc' => 'Pozwala wykorzystać znaczniki języka XML do znakowania różnych języków i ich poprawnego wyświetlania',
+);
+
 /** Russian (русский)
  * @author Okras
  */
