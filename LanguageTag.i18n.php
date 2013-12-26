@@ -88,6 +88,13 @@ $messages['ja'] = array(
 	'languagetag-desc' => '他の言語をマークアップするための XML スタイルの言語タグを使用できるようにし、それらを適切に表示できるようにする',
 );
 
+/** Luxembourgish (Lëtzebuergesch)
+ * @author Robby
+ */
+$messages['lb'] = array(
+	'languagetag-desc' => 'Erlaabt et Sprooch-Tags am XML-Stil ze benotze fir verschidde Sproochen ze markéieren a se korrekt duerzestellen',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
