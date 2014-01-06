@@ -88,6 +88,13 @@ $messages['ja'] = array(
 	'languagetag-desc' => '他の言語をマークアップするための XML スタイルの言語タグを使用できるようにし、それらを適切に表示できるようにする',
 );
 
+/** Colognian (Ripoarisch)
+ * @author Purodha
+ */
+$messages['ksh'] = array(
+	'languagetag-desc' => 'Määd_et möjjelesch, em Wiki Stöcke med ongerschiedlesche ze makeere un reeschtesch aanzezeije.',
+);
+
 /** Luxembourgish (Lëtzebuergesch)
  * @author Robby
  */
