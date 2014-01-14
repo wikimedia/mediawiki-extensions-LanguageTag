@@ -131,6 +131,13 @@ $messages['ru'] = array(
 	'languagetag-desc' => 'Позволяет использовать языковые теги в XML-стиле для разметки разных языков и их правильного отображения',
 );
 
+/** Swedish (svenska)
+ * @author Lokal Profil
+ */
+$messages['sv'] = array(
+	'languagetag-desc' => 'Möjliggör användningen av språktaggar i XML-stil för att märka upp olika språk och visa dem korrekt',
+);
+
 /** Ukrainian (українська)
  * @author Andriykopanytsia
  */
