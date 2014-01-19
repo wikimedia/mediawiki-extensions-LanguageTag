@@ -88,6 +88,13 @@ $messages['ja'] = array(
 	'languagetag-desc' => '他の言語をマークアップするための XML スタイルの言語タグを使用できるようにし、それらを適切に表示できるようにする',
 );
 
+/** Korean (한국어)
+ * @author Priviet
+ */
+$messages['ko'] = array(
+	'languagetag-desc' => 'XML-스타일 언어 태그를 사용하여 다른 언어를 마크업하고 적절하게 표시하는 것을 허용함',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
