@@ -131,6 +131,13 @@ $messages['pl'] = array(
 	'languagetag-desc' => 'Pozwala wykorzystać znaczniki języka XML do znakowania różnych języków i ich poprawnego wyświetlania',
 );
 
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'languagetag-desc' => "Permette de ausà lènghe in stile tag XML pe signà le lènghe diverse, e le face 'ndrucà correttamende",
+);
+
 /** Russian (русский)
  * @author Okras
  */
