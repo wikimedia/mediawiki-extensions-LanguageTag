@@ -52,6 +52,13 @@ $messages['es'] = array(
 	'languagetag-desc' => 'Permite usar etiquetas de idioma al estilo XML para marcar texto en lenguas distintas y mostrarlo adecuadamente',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'languagetag-desc' => 'اجازه به استفادهٔ برچسب‌های زبان سبک ایکس‌ام‌ال برای سیستم کد گذاری زبان‌های متفاوت، و نمایش آنها به درستی',
+);
+
 /** French (français)
  * @author Gomoko
  */
