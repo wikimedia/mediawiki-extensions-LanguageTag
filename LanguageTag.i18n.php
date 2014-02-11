@@ -166,6 +166,13 @@ $messages['uk'] = array(
 	'languagetag-desc' => 'Дозволяє використовувати мовні теги у XML-стилі для розмітки різних мов і їх правильного відображення',
 );
 
+/** vèneto (vèneto)
+ * @author GatoSelvadego
+ */
+$messages['vec'] = array(
+	'languagetag-desc' => 'Permeti de doparar etichete in stiłe lenguajo XML par segnałar difarenti lengue, e mostrarle in modo apropià',
+);
+
 /** Simplified Chinese (中文（简体）‎)
  * @author Liuxinyu970226
  */
