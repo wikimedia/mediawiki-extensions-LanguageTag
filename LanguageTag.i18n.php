@@ -132,6 +132,13 @@ $messages['nl'] = array(
 	'languagetag-desc' => 'Maakt het mogelijk om gebruik te maken van van XML-achtige taallabels om verschillende talen te labelen, en ze correct weer te geven',
 );
 
+/** Occitan (occitan)
+ * @author Cedric31
+ */
+$messages['oc'] = array(
+	'languagetag-desc' => "Permet d’utilizar las balisas de lenga dins l'estil XML per marcar las diferentas lengas, e las afichar corrèctament",
+);
+
 /** Polish (polski)
  * @author Chrumps
  */
