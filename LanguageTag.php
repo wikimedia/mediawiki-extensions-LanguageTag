@@ -14,16 +14,17 @@ if( !defined( 'MEDIAWIKI' ) ) {
         die( -1 );
 }
 
-// Standard crediting 
+// Standard crediting
 $wgExtensionCredits['parserhook'][] = array(
         'path'           => __FILE__,
         'name'           => 'LanguageTag',
-        'version'        => '1.0', // 2013.10.28
+        'version'        => '1.1.0',
         'author'         => 'István Király',
         'url'            => 'https://www.mediawiki.org/wiki/Extension:LanguageTag',
 	'descriptionmsg' => 'languagetag-desc',
 );
 
+$wgMessagesDirs['LanguageTag'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['LanguageTag'] = __DIR__ . '/LanguageTag.i18n.php';
 $wgAutoloadClasses['LanguageTag'] = __DIR__ . '/LanguageTag.body.php';
 $wgHooks['ParserFirstCallInit'][] = 'LanguageTag::LanguageTagParserInit';
