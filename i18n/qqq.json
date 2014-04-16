@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Shirayuki"
-        ]
-    },
-    "languagetag-desc": "{{desc|name=Language Tag|url=http://www.mediawiki.org/wiki/Extension:LanguageTag}}"
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"languagetag-desc": "{{desc|name=Language Tag|url=http://www.mediawiki.org/wiki/Extension:LanguageTag}}"
 }

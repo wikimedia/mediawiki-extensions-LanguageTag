@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Beta16"
-        ]
-    },
-    "languagetag-desc": "Permette di utilizzare i tag del linguaggio XML per contrassegnare le diverse lingue e mostrarle correttamente"
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"languagetag-desc": "Permette di utilizzare i tag del linguaggio XML per contrassegnare le diverse lingue e mostrarle correttamente"
 }

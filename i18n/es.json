@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Fitoschido"
-        ]
-    },
-    "languagetag-desc": "Permite usar etiquetas de idioma al estilo XML para marcar texto en lenguas distintas y mostrarlo adecuadamente"
+	"@metadata": {
+		"authors": [
+			"Fitoschido"
+		]
+	},
+	"languagetag-desc": "Permite usar etiquetas de idioma al estilo XML para marcar texto en lenguas distintas y mostrarlo adecuadamente"
 }

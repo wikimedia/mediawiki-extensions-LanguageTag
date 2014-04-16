@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Metalhead64"
-        ]
-    },
-    "languagetag-desc": "Ermöglicht die Verwendung von Sprachtags im XML-Stil zur Auszeichnung und korrekten Anzeige unterschiedlicher Sprachen"
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"languagetag-desc": "Ermöglicht die Verwendung von Sprachtags im XML-Stil zur Auszeichnung und korrekten Anzeige unterschiedlicher Sprachen"
 }
