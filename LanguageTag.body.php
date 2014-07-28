@@ -18,9 +18,9 @@ class LanguageTag
 {
  
     public static function LanguageTagParserInit( Parser $parser ) {
- 
         // at runtime TagLanguages is in the global scope
         global $wgLanguageTagLanguages;
+        if ( $wgLanguageTagLanguages === null ) return true; // Nothing to do
         foreach ($wgLanguageTagLanguages as $Tag) $parser->setHook( $Tag, 'LanguageTag::LanguageTagRender_'.$Tag );
  
         unset($Tag);
