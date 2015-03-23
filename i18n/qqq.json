@@ -1,8 +1,9 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki"
+			"Shirayuki",
+			"Umherirrender"
 		]
 	},
-	"languagetag-desc": "{{desc|name=Language Tag|url=http://www.mediawiki.org/wiki/Extension:LanguageTag}}"
+	"languagetag-desc": "{{desc|name=Language Tag|url=https://www.mediawiki.org/wiki/Extension:LanguageTag}}"
 }
