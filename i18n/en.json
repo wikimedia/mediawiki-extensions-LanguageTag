@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "István Király"
-        ]
-    },
-    "languagetag-desc": "Allows to use XML-style language tags to markup different languages, and display them properly"
+	"@metadata": {
+		"authors": [
+			"István Király"
+		]
+	},
+	"languagetag-desc": "Allows to use XML-style language tags to markup different languages, and display them properly"
 }
