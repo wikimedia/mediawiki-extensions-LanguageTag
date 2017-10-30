@@ -25,6 +25,5 @@ $wgExtensionCredits['parserhook'][] = array(
 );
 
 $wgMessagesDirs['LanguageTag'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['LanguageTag'] = __DIR__ . '/LanguageTag.i18n.php';
 $wgAutoloadClasses['LanguageTag'] = __DIR__ . '/LanguageTag.body.php';
 $wgHooks['ParserFirstCallInit'][] = 'LanguageTag::LanguageTagParserInit';
