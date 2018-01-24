@@ -9,21 +9,16 @@
  */
 
 // Yes, this is an extension, not a standalone script, we are coming from LocalSettings.php
-if( !defined( 'MEDIAWIKI' ) ) {
-        echo( "This is an extension to the MediaWiki package and cannot be run standalone.\n" );
-        die( -1 );
+if ( function_exists( 'wfLoadExtension' ) ) {
+	wfLoadExtension( 'LanguageTag' );
+	// Keep i18n globals so mergeMessageFileList.php doesn't break
+	$wgMessagesDirs['LanguageTag'] = __DIR__ . '/i18n';
+	wfWarn(
+		'Deprecated PHP entry point used for the LanguageTag extension. ' .
+		'Please use wfLoadExtension instead, ' .
+		'see https://www.mediawiki.org/wiki/Extension_registration for more details.'
+	);
+	return;
+} else {
+	die( 'This version of the LanguageTag extension requires MediaWiki 1.29+' );
 }
-
-// Standard crediting
-$wgExtensionCredits['parserhook'][] = array(
-        'path'           => __FILE__,
-        'name'           => 'LanguageTag',
-        'version'        => '1.1.0',
-        'author'         => 'István Király',
-        'url'            => 'https://www.mediawiki.org/wiki/Extension:LanguageTag',
-	'descriptionmsg' => 'languagetag-desc',
-);
-
-$wgMessagesDirs['LanguageTag'] = __DIR__ . '/i18n';
-$wgAutoloadClasses['LanguageTag'] = __DIR__ . '/LanguageTag.body.php';
-$wgHooks['ParserFirstCallInit'][] = 'LanguageTag::LanguageTagParserInit';
