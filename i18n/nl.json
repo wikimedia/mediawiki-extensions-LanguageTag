@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Breghtje",
-			"Siebrand"
+			"Siebrand",
+			"Ooswesthoesbes"
 		]
 	},
-	"languagetag-desc": "Maakt het mogelijk om gebruik te maken van van XML-achtige taallabels om verschillende talen te labelen, en ze correct weer te geven"
+	"languagetag-desc": "Maakt het mogelijk om gebruik te maken van XML-achtige taallabels om verschillende talen te labelen, en ze correct weer te geven"
 }
