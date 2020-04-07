@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Toliño",
-			"Elisardojm"
+			"Elisardojm",
+			"Toliño"
 		]
 	},
 	"languagetag-desc": "Permite utilizar as etiquetas de lingua de estilo XML para dar formato ás diferentes linguas e amosalas correctamente"

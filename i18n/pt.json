@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Vitorvicentevalente",
-			"Hamilton Abreu"
+			"Hamilton Abreu",
+			"Vitorvicentevalente"
 		]
 	},
 	"languagetag-desc": "Permite o uso de marcações de linguagem XML para formatar diferentes línguas e apresentá-las adequadamente"
