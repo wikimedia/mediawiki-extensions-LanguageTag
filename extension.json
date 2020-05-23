@@ -14,10 +14,10 @@
 		]
 	},
 	"AutoloadClasses": {
-		"LanguageTag": "LanguageTag.body.php"
+		"LanguageTag": "src/LanguageTag.php"
 	},
 	"Hooks": {
-		"ParserFirstCallInit": "LanguageTag::LanguageTagParserInit"
+		"ParserFirstCallInit": "LanguageTag::onParserFirstCallInit"
 	},
 	"config": {
 		"LanguageTagLanguages": {
