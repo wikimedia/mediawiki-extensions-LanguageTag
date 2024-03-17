@@ -45,10 +45,10 @@ class LanguageTag {
 
 		if ( $wgLang->getCode() === $lang ) {
 		   // Match. The Language (set by LanguageSelector) is equal to the language tag.
-		   return $output;
+			return $output;
 		} else {
 		   // Other wise we return the text as html-comment, thus not visible in the browser.
-		   return '<!-- ' . $lang . ': ' . $output . ' -->';
+			return '<!-- ' . $lang . ': ' . $output . ' -->';
 		}
 	}
 
